@@ -6,7 +6,6 @@ Intelligent Computing Engineer focused on **software development** and **applied
 - 🔬 Former Research Fellow at SECTEI — developed deep learning models to detect mistletoe on urban trees using multispectral drone imagery
 - 📄 First and corresponding author of a paper published in the Springer proceedings of **COMIA 2026** ([DOI: 10.1007/978-3-032-37438-7_5](https://doi.org/10.1007/978-3-032-37438-7_5))
 - 💻 1+ years of experience in full-stack development (.NET, React, Angular, Node.js)
-- 🌱 Currently exploring Cloud platforms (Azure/AWS/GCP) and DevOps practices
 
 ## What I work with
 
